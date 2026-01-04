@@ -1,4 +1,5 @@
 # K_CILM: Knowledge-driven Class-Incremental Learning Model for Brain Tumor Multi-genotype Prediction under Label missing and Class Imbalance
+<img width="1880" height="792" alt="Figure2" src="https://github.com/user-attachments/assets/364f8ba2-a7b9-462a-87f6-f0692e7dfdac" />
 
 # Requirements
 - Python3.8
